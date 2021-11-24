@@ -11,10 +11,10 @@ Class name: **Corner**
 Methods:
 - **findCorner():** Detect corners
 - **findNeighbor():** Detect all neighbor (With Recursion)
-- **checkUp():** Check upper corner
-- **checkLeft():** Check left corner
-- **checkRight()**: Check right corner
-- **checkDown()**: Check down corner
+- **checkUp():** Check upper neighbor
+- **checkLeft():** Check left neighbor
+- **checkRight()**: Check right neighbor
+- **checkDown()**: Check down neighbor
 - **processArray()**: Convert 1 to 0
 
 ## Input
